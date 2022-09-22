@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Airbnb Mission statement: to unlock the power of sharing space, resources, and support in times of need.
+=======
+Airbnb Mission Statement: To allow travellers to feel a sense of home anywhere in the world through sharing space and resources they need. 
+>>>>>>> test
